@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Button_Style" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="Number_Button_Style" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/number_button</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="Action_Button_Style" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/action_button</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>
